@@ -1,0 +1,23 @@
+{
+  "name": "ocean-commitlint-config",
+  "version": "0.0.3",
+  "main": "index.js",
+  "description": "> TODO: description",
+  "keywords": [
+    "commit",
+    "lint"
+  ],
+  "author": "ocean",
+  "homepage": "https://github.com/ocean520x/ocean-fe-lint#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocean520x/ocean-fe-lint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ocean520x/ocean-fe-lint/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}

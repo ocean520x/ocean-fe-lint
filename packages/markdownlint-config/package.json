@@ -1,0 +1,23 @@
+{
+  "name": "ocean-markdownlint-config",
+  "version": "0.0.3",
+  "main": "index.json",
+  "description": "> TODO: description",
+  "keywords": [
+    "markdown",
+    "lint"
+  ],
+  "author": "ocean",
+  "homepage": "https://github.com/ocean520x/ocean-fe-lint#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocean520x/ocean-fe-lint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ocean520x/ocean-fe-lint/issues"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}
