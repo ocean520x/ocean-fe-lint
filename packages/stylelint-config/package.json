@@ -1,0 +1,33 @@
+{
+  "name": "ocean-fe-stylelint-config",
+  "version": "0.0.3",
+  "description": "> TODO: CSS规范",
+  "main": "index.js",
+  "keywords": [
+    "ocean",
+    "style",
+    "lint"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ocean",
+  "homepage": "https://github.com/ocean520x/ocean-fe-lint#readme",
+  "license": "ISC",
+  "peerDependencies": {
+    "stylelint": ">=8.3.0",
+    "stylelint-scss": ">=2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "stylelint": "^14.3.0",
+    "stylelint-scss": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocean520x/ocean-fe-lint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ocean520x/ocean-fe-lint/issues"
+  }
+}
